@@ -1,2 +1,2 @@
 # Web-responsive-periodic-table
-Web responsive periodic in HTML and CSS
+Web responsive periodic table created using in HTML and CSS
